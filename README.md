@@ -17,6 +17,8 @@
 
 <h3>데이터 EDA</h3>
 
+<h5>house_price_EDA.ipynb</h5>
+
 - imports, settings, data load  
 - data shape, info, describe  
 - feature meaning comprehend  
