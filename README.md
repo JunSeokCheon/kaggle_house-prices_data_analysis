@@ -1,4 +1,4 @@
-# :wave: 캐글 집값 예측 데이터 분석 :wave:  
+# :house: 캐글 집값 예측 데이터 분석 :house:  
 - - -
 <h1>Intro</h1> 
 
