@@ -42,18 +42,20 @@
 
 <h3>데이터 Feature Engineering</h3>
 <h5>house_price_feature_Engineering&Modeling.ipynb</h5>
-- log1p를 활용하여 saleprice를 정규분포 형태로 변경하여 saleprice_log로 처리
-- 결측값 처리(None, 평균 값)
-- 상관계수가 높은 수치형 변수 저장
-- 파생변수 설정
-- 범주형 변수들 중 명목형 변수는 one-hot encoding 처리
-- 순서형 변수들은 정도의 순서를 부여
+
+- log1p를 활용하여 saleprice를 정규분포 형태로 변경하여 saleprice_log로 처리  
+- 결측값 처리(None, 평균 값)  
+- 상관계수가 높은 수치형 변수 저장  
+- 파생변수 설정  
+- 범주형 변수들 중 명목형 변수는 one-hot encoding 처리  
+- 순서형 변수들은 정도의 순서를 부여  
 
 - - -
 
 <h3>모델링</h3>
 <h5>house_price_feature_Engineering&Modeling.ipynb</h5>
-- xgboost, lgbm 모델들을 사용하여 average 기법 활용
+
+- xgboost, lgbm 모델들을 사용하여 average 기법 활용  
 
 - - -
 
